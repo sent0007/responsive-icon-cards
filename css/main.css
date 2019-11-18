@@ -28,11 +28,11 @@ body {
   margin-top: .7em;
 }
 
-.card-image img {
+.card-img img {
   width: 50px;
 }
 
-.card-image {
+.card-img {
   text-align: center;
 }
 
